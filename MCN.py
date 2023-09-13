@@ -17,22 +17,27 @@ points = []
 
 searchBase = "https://maps.googleapis.com/maps/api/geocode/json?key="+config.GOOGLE_API_KEY+"&address="
 
+# removes the moto camp nerd link in the section body
 links.pop(0)
 
+# nbsp character
 nonBreakSpace = u'\xa0'
 
 for link in links:
+    # replace fixes characters not likes by tread
     point = {
         "name": link.text.replace("’", "'").replace("–", "-").replace(nonBreakSpace, ' '),
         "website": link['href']
     }
 
+    # there are some links that are invisible for some reason
     if len(point["name"]) != 0:
         search = point["name"].replace(' ','+')
         searchUri = searchBase+search
         response = requests.get(searchUri).text
         data = json.loads(response)
 
+        # if no results, ignore them
         if(len(data["results"]) > 0):
             coords = data["results"][0]["geometry"]["location"]
 
