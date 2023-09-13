@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="utf-8"?><gpx creator="PoppedBit" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1 http://www.garmin.com/xmlschemas/TripMetaDataExtensionsv1.xsd http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1 http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensionsv1.xsd http://www.garmin.com/xmlschemas/CreationTimeExtension/v1 http://www.garmin.com/xmlschemas/CreationTimeExtensionsv1.xsd http://www.garmin.com/xmlschemas/AccelerationExtension/v1 http://www.garmin.com/xmlschemas/AccelerationExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.garmin.com/xmlschemas/VideoExtension/v1 http://www.garmin.com/xmlschemas/VideoExtensionv1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1" xmlns:tmd="http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1" xmlns:vptm="http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1" xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" xmlns:gpxacc="http://www.garmin.com/xmlschemas/AccelerationExtension/v1" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:vidx1="http://www.garmin.com/xmlschemas/VideoExtension/v1">
+    <metadata>
+        <link href="http://www.poppedbit.com">
+            <text>Garmin International</text>
+        </link>
+        <time>2023-09-12T21:37:03Z</time>
+        <bounds maxlat="45.65348569303751" maxlon="-114.7166636120528" minlat="45.65348569303751" minlon="-114.7166636120528" />
+    </metadata>
+        <wpt lat="34.403184" lon="-85.640469">
+            <time>2023-09-12T21:36:04Z</time>
+            <name>Little River Adventure Company - Fort Payne</name>
+            <sym>Campground</sym>
+            <type>user</type>
+            <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2023-09-12T21:36:04Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+            </extensions>
+        </wpt>
+     
+        <wpt lat="63.3223482" lon="-143.0045037">
+            <time>2023-09-12T21:36:04Z</time>
+            <name>Thompson's Eagle's Claw Motorcycle Park - Tok</name>
+            <sym>Campground</sym>
+            <type>user</type>
+            <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2023-09-12T21:36:04Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+            </extensions>
+        </wpt>
+     
+        <wpt lat="34.6877464" lon="-84.02235250000001">
+            <time>2023-09-12T21:36:04Z</time>
+            <name>Two Wheels of Suches - Suches</name>
+            <sym>Campground</sym>
+            <type>user</type>
+            <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2023-09-12T21:36:04Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+            </extensions>
+        </wpt>
+     
+        <wpt lat="35.4119944" lon="-99.4042592">
+            <time>2023-09-12T21:36:04Z</time>
+            <name>Riders Rest - Elk City</name>
+            <sym>Campground</sym>
+            <type>user</type>
+            <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2023-09-12T21:36:04Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+            </extensions>
+        </wpt>
+     
+        <wpt lat="44.6584619" lon="-85.7987211">
+            <time>2023-09-12T21:36:04Z</time>
+            <name>Cycle Moore Motorcycle Campground - Interlochen</name>
+            <sym>Campground</sym>
+            <type>user</type>
+            <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2023-09-12T21:36:04Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+            </extensions>
+        </wpt>
+     
+        <wpt lat="35.404653" lon="-82.810766">
+            <time>2023-09-12T21:36:04Z</time>
+            <name>Blue Ridge Motorcycle Campground - Canton</name>
+            <sym>Campground</sym>
+            <type>user</type>
+            <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2023-09-12T21:36:04Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+            </extensions>
+        </wpt>
+     
+        <wpt lat="36.15494169999999" lon="-81.4545464">
+            <time>2023-09-12T21:36:04Z</time>
+            <name>High Country Motorcycle Camp - Ferguson</name>
+            <sym>Campground</sym>
+            <type>user</type>
+            <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2023-09-12T21:36:04Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+            </extensions>
+        </wpt>
+     
+        <wpt lat="36.0728809" lon="-81.4040857">
+            <time>2023-09-12T21:36:04Z</time>
+            <name>Rider's Roost Motorcycle Resort - Ferguson</name>
+            <sym>Campground</sym>
+            <type>user</type>
+            <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2023-09-12T21:36:04Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+            </extensions>
+        </wpt>
+     
+        <wpt lat="36.1700938" lon="-81.9931041">
+            <time>2023-09-12T21:36:04Z</time>
+            <name>Mountain View Motorcycle Campground - Elk Park</name>
+            <sym>Campground</sym>
+            <type>user</type>
+            <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2023-09-12T21:36:04Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+            </extensions>
+        </wpt>
+     
+        <wpt lat="35.3720529" lon="-83.6793096">
+            <time>2023-09-12T21:36:04Z</time>
+            <name>Kickstand Lodge - Stecoah/Robbinsville</name>
+            <sym>Campground</sym>
+            <type>user</type>
+            <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2023-09-12T21:36:04Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+            </extensions>
+        </wpt>
+     
+        <wpt lat="35.389266" lon="-83.6777649">
+            <time>2023-09-12T21:36:04Z</time>
+            <name>Iron Horse Motorcycle Lodge - Robbinsville</name>
+            <sym>Campground</sym>
+            <type>user</type>
+            <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2023-09-12T21:36:04Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+            </extensions>
+        </wpt>
+     
+        <wpt lat="35.3356581" lon="-83.80389009999999">
+            <time>2023-09-12T21:36:04Z</time>
+            <name>Simple Life Mountain Retreat and Campground - Robbinsville (moto friendly)</name>
+            <sym>Campground</sym>
+            <type>user</type>
+            <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2023-09-12T21:36:04Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+            </extensions>
+        </wpt>
+     
+        <wpt lat="36.3925619" lon="-81.245661">
+            <time>2023-09-12T21:36:04Z</time>
+            <name>Station's Inn - Laurel Springs (moto friendly)</name>
+            <sym>Campground</sym>
+            <type>user</type>
+            <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2023-09-12T21:36:04Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+            </extensions>
+        </wpt>
+     
+        <wpt lat="36.39328" lon="-81.2467346">
+            <time>2023-09-12T21:36:04Z</time>
+            <name>Freeborne's Eatery and Lodge - Laurel Springs</name>
+            <sym>Campground</sym>
+            <type>user</type>
+            <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2023-09-12T21:36:04Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+            </extensions>
+        </wpt>
+     
+        <wpt lat="35.466753" lon="-83.9194711">
+            <time>2023-09-12T21:36:04Z</time>
+            <name>Deals Gap Motorcycle Resort - Robbinsville (mainly moto, not moto only)</name>
+            <sym>Campground</sym>
+            <type>user</type>
+            <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2023-09-12T21:36:04Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+            </extensions>
+        </wpt>
+     
+        <wpt lat="35.29355" lon="-83.78071">
+            <time>2023-09-12T21:36:04Z</time>
+            <name>Two Wheel Inn - Robbinsville</name>
+            <sym>Campground</sym>
+            <type>user</type>
+            <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2023-09-12T21:36:04Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+            </extensions>
+        </wpt>
+     
+        <wpt lat="35.850168" lon="-82.0907987">
+            <time>2023-09-12T21:36:04Z</time>
+            <name>Switzerland Inn - Little Switzerland</name>
+            <sym>Campground</sym>
+            <type>user</type>
+            <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2023-09-12T21:36:04Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+            </extensions>
+        </wpt>
+     
+        <wpt lat="39.6124237" lon="-82.1158291">
+            <time>2023-09-12T21:36:04Z</time>
+            <name>POP'S PLACE CAMPING & CABINS LLC - Corning, OH</name>
+            <sym>Campground</sym>
+            <type>user</type>
+            <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2023-09-12T21:36:04Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+            </extensions>
+        </wpt>
+     
+        <wpt lat="35.341745" lon="-84.36142099999999">
+            <time>2023-09-12T21:36:04Z</time>
+            <name>Cherohala Mountain Trails Campground - Tellico Plains (very moto friendly)</name>
+            <sym>Campground</sym>
+            <type>user</type>
+            <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2023-09-12T21:36:04Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+            </extensions>
+        </wpt>
+     
+        <wpt lat="35.348042" lon="-84.30711">
+            <time>2023-09-12T21:36:04Z</time>
+            <name>Smitty's Lodge Motorcycle Campground - Tellico Plains</name>
+            <sym>Campground</sym>
+            <type>user</type>
+            <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2023-09-12T21:36:04Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+            </extensions>
+        </wpt>
+     
+        <wpt lat="29.3708857" lon="-100.8958674">
+            <time>2023-09-12T21:36:04Z</time>
+            <name>Bobarosa Saloon / Tent Camping USA - Del Rio</name>
+            <sym>Campground</sym>
+            <type>user</type>
+            <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2023-09-12T21:36:04Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+            </extensions>
+        </wpt>
+     
+        <wpt lat="35.5816345" lon="-84.0937728">
+            <time>2023-09-12T21:36:04Z</time>
+            <name>Punkin Center Cabins Campground - Maryville</name>
+            <sym>Campground</sym>
+            <type>user</type>
+            <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2023-09-12T21:36:04Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+            </extensions>
+        </wpt>
+     
+        <wpt lat="29.774161" lon="-98.956552">
+            <time>2023-09-12T21:36:04Z</time>
+            <name>Ride On Inn - Pipecreek</name>
+            <sym>Campground</sym>
+            <type>user</type>
+            <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2023-09-12T21:36:04Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+            </extensions>
+        </wpt>
+     
+        <wpt lat="36.9061445" lon="-80.2596262">
+            <time>2023-09-12T21:36:04Z</time>
+            <name>Crooked Mountain - Floyd</name>
+            <sym>Campground</sym>
+            <type>user</type>
+            <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2023-09-12T21:36:04Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+            </extensions>
+        </wpt>
+     
+        <wpt lat="36.7377315" lon="-80.3952034">
+            <time>2023-09-12T21:36:04Z</time>
+            <name>Rider Ridge Cabins - Meadows of Dan</name>
+            <sym>Campground</sym>
+            <type>user</type>
+            <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2023-09-12T21:36:04Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+            </extensions>
+        </wpt>
+     
+        <wpt lat="36.7334284" lon="-80.4271424">
+            <time>2023-09-12T21:36:04Z</time>
+            <name>Willville Motorcycle Campground - Meadows of Dan</name>
+            <sym>Campground</sym>
+            <type>user</type>
+            <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2023-09-12T21:36:04Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+            </extensions>
+        </wpt>
+     
+        <wpt lat="37.9982047" lon="-79.139115">
+            <time>2023-09-12T21:36:04Z</time>
+            <name>Penmerryl Farm - Greenville</name>
+            <sym>Campground</sym>
+            <type>user</type>
+            <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2023-09-12T21:36:04Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+            </extensions>
+        </wpt>
+     
+        <wpt lat="44.4856963" lon="-109.3481704">
+            <time>2023-09-12T21:36:04Z</time>
+            <name>East Yellowstone Cabins and Tipis Lodging Former Wheels of Wonderment - Wapiti</name>
+            <sym>Campground</sym>
+            <type>user</type>
+            <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2023-09-12T21:36:04Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+            </extensions>
+        </wpt>
+     
+        <wpt lat="49.6865846" lon="-116.9160103">
+            <time>2023-09-12T21:36:04Z</time>
+            <name>Toad Rock Motorcycle Campground - Central Kootenay E, BC</name>
+            <sym>Campground</sym>
+            <type>user</type>
+            <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2023-09-12T21:36:04Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+            </extensions>
+        </wpt>
+     
+        <wpt lat="49.159127" lon="-116.330607">
+            <time>2023-09-12T21:36:04Z</time>
+            <name>Riders Ranch Motorcycle Campground - Kitchener, BC</name>
+            <sym>Campground</sym>
+            <type>user</type>
+            <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2023-09-12T21:36:04Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+            </extensions>
+        </wpt>
+     
+        <wpt lat="53.9705711" lon="-111.6898849">
+            <time>2023-09-12T21:36:04Z</time>
+            <name>Howlin' Coyote Motorcycle Campground - Saddle Lake, AB</name>
+            <sym>Campground</sym>
+            <type>user</type>
+            <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2023-09-12T21:36:04Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+            </extensions>
+        </wpt>
+     
+        <wpt lat="60.59885240000001" lon="-134.8492587">
+            <time>2023-09-12T21:36:04Z</time>
+            <name>Yukon Motorcycle Park Campground - Whitehorse, YT</name>
+            <sym>Campground</sym>
+            <type>user</type>
+            <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+            <wptx1:WaypointExtension>
+                <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+            </wptx1:WaypointExtension>
+            <ctx:CreationTimeExtension>
+                <ctx:CreationTime>2023-09-12T21:36:04Z</ctx:CreationTime>
+            </ctx:CreationTimeExtension>
+            </extensions>
+        </wpt>
+    </gpx>
