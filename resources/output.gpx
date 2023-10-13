@@ -9,18 +9,32 @@
             <wpt lat="36.17030024938613" lon="-81.99312550020339">
                 <time>2023-09-12T21:36:04Z</time>
                 <name>Mountain View Motorcycle Campground</name>
+                <cmt>
+401 Buck Mountain Rd, Elk Park, NC 28622
+Elk Park, NC 28622
+(828) 742-1054
+https://www.facebook.com/profile.php?id=100057529086709
+Tent, hammock, bunk, cabins, shower
+cash only</cmt>
+		        <desc>
+401 Buck Mountain Rd, Elk Park, NC 28622
+Elk Park, NC 28622
+(828) 742-1054
+https://www.facebook.com/profile.php?id=100057529086709
+Tent, hammock, bunk, cabins, shower
+cash only</desc>
                 <sym>Campground</sym>
                 <type>user</type>
                 <extensions>
-                <gpxx:WaypointExtension>
-                    <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-                </gpxx:WaypointExtension>
-                <wptx1:WaypointExtension>
-                    <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
-                </wptx1:WaypointExtension>
-                <ctx:CreationTimeExtension>
-                    <ctx:CreationTime>2023-09-12T21:36:04Z</ctx:CreationTime>
-                </ctx:CreationTimeExtension>
+                    <gpxx:WaypointExtension>
+                        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+                    </gpxx:WaypointExtension>
+                    <wptx1:WaypointExtension>
+                        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+                    </wptx1:WaypointExtension>
+                    <ctx:CreationTimeExtension>
+                        <ctx:CreationTime>2023-09-12T21:36:04Z</ctx:CreationTime>
+                    </ctx:CreationTimeExtension>
                 </extensions>
             </wpt>
         </gpx>

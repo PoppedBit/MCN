@@ -63,22 +63,31 @@ def getCampsitesFromCSV(fileName = "campgrounds.csv"):
 def getWaypointsFromCampsites(campsites = []):
     waypoints = []
     for campsite in campsites:
+        description = """
+"""+campsite.address+"""
+"""+campsite.city+""", """+campsite.state+""" """+campsite.zip+"""
+"""+campsite.phone+"""
+"""+campsite.website+"""
+"""+campsite.amenities+"""
+"""+campsite.notes
         waypoint = """
             <wpt lat=\""""+str(campsite.latitude)+"""\" lon=\""""+str(campsite.longitude)+"""\">
                 <time>2023-09-12T21:36:04Z</time>
                 <name>"""+campsite.name+"""</name>
+                <cmt>"""+description+"""</cmt>
+		        <desc>"""+description+"""</desc>
                 <sym>Campground</sym>
                 <type>user</type>
                 <extensions>
-                <gpxx:WaypointExtension>
-                    <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-                </gpxx:WaypointExtension>
-                <wptx1:WaypointExtension>
-                    <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
-                </wptx1:WaypointExtension>
-                <ctx:CreationTimeExtension>
-                    <ctx:CreationTime>2023-09-12T21:36:04Z</ctx:CreationTime>
-                </ctx:CreationTimeExtension>
+                    <gpxx:WaypointExtension>
+                        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+                    </gpxx:WaypointExtension>
+                    <wptx1:WaypointExtension>
+                        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+                    </wptx1:WaypointExtension>
+                    <ctx:CreationTimeExtension>
+                        <ctx:CreationTime>2023-09-12T21:36:04Z</ctx:CreationTime>
+                    </ctx:CreationTimeExtension>
                 </extensions>
             </wpt>
         """
